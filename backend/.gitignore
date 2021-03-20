@@ -33,6 +33,7 @@ build/
 .vscode/
 
 .DS_Store
+
 .metadata
 .mvn
 
