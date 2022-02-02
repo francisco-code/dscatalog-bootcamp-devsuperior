@@ -1,4 +1,4 @@
-package com.felipecorreia.dscatalog.resources;
+ package com.felipecorreia.dscatalog.resources;
 
 import java.util.List;
 
