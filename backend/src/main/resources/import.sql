@@ -1,5 +1,5 @@
-INSERT INTO tb_category(name) VALUES ('Books');
-INSERT INTO tb_category(name) VALUES ('Eletronics');
-INSERT INTO tb_category(name) VALUES ('Computers');
-INSERT INTO tb_category(name) VALUES ('Music');
-INSERT INTO tb_category(name) VALUES ('Games');
+INSERT INTO tb_category(name, created_At) VALUES ('Books', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Eletronics', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Computers', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Music', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Games', NOW());
